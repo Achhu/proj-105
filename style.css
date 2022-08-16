@@ -1,0 +1,35 @@
+body
+{
+    background-color:lightseagreen;
+}
+
+.heading
+{
+background-color: crimson;
+color:yellow;
+font-family:cursive;
+font-size: medium;
+}
+p
+{
+color: darkblue;
+}
+
+b
+{
+    font-style: italic;
+    color:darkgreen;
+    
+}
+#result
+{
+ color: darksalmon;   
+}
+.lol
+{
+    color:black
+}
+.loi
+{
+    color:black
+}
